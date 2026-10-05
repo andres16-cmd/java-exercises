@@ -10,7 +10,7 @@ public class Ejercicio_5 {
         GeneradorAleatorio.iniciar();
         
         // Creamos el Objeto "Estanteria" un unico estante.
-        EstanteriaHogareña estanteria1 = new EstanteriaHogareña();
+        EstanteriaHogarena estanteria1 = new EstanteriaHogarena();
         
         int cantLibros = GeneradorAleatorio.generarInt(40);
         
